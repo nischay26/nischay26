@@ -22,7 +22,7 @@ CS student at Rutgers University interested in software engineering, backend dev
 
 ### 🛒 eBay Auction Clone
 Full-stack auction web app with login, bidding, and database integration  
-👉 https://github.com/YOUR_LINK
+👉 https://github.com/nischay26/project-part2
 
 ### 📱 Android Album App
 Android app to manage albums and photos  
