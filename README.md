@@ -1,3 +1,4 @@
+Updating profile README
 # Hi, I'm Nischay 👋
 
 I'm a Computer Science student at Rutgers University interested in software engineering, backend development, full-stack applications, and practical AI tools.
