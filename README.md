@@ -26,13 +26,13 @@ Full-stack auction web app with login, bidding, and database integration
 
 ### 📱 Android Album App
 Android app to manage albums and photos  
-👉 [https://github.com/nischay26/android87]
+👉 https://github.com/nischay26/android87
 ### 🎲 Dice Duel Game
 Interactive browser-based dice game  
-👉 [https://github.com/nischay26/dice-duel-game]
+👉 https://github.com/nischay26/dice-duel-game
 
 ---
 
 ## 📫 Contact
-LinkedIn: [https://www.linkedin.com/in/nischay-agarwal-277514243/]
-Email: [26nischay.agarwal@gmail.com]
+LinkedIn: https://www.linkedin.com/in/nischay-agarwal-277514243/
+Email: 26nischay.agarwal@gmail.com
