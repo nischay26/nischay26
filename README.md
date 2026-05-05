@@ -34,5 +34,5 @@ Interactive browser-based dice game
 ---
 
 ## 📫 Contact
-LinkedIn: YOUR_LINK  
-Email: YOUR_EMAIL
+LinkedIn: [https://www.linkedin.com/in/nischay-agarwal-277514243/]
+Email: [26nischay.agarwal@gmail.com]
