@@ -1,14 +1,10 @@
 ### Nischay Agarwal
-**CS student at Rutgers ('27) building full-stack and backend systems in Java, Python, and JavaScript.**
+**CS student at Rutgers ('27) building full-stack web apps, Android apps, and backend systems.**
 
-| Project | What's interesting about it |
-|---|---|
-| [**Auction Platform**](https://github.com/nischay26/auction-platform) | Online auction site with an automated proxy-bidding engine, reserve prices, and auto-closing auctions on a normalized MySQL schema · *Java, JSP, MySQL* |
-| [**Android87**](https://github.com/nischay26/android87) | Photo album app with person/location tagging and AND/OR tag search across albums · *Java, Android* |
-| [**Dice Duel**](https://github.com/nischay26/dice-duel-game) | Multiplayer browser game where a Node.js server keeps every player in sync over WebSockets · *Node.js, Express* |
+I like taking an idea all the way from database schema to working UI, and I'm especially interested in backend development, data, and anything that automates a tedious task. My minor in Business keeps me focused on building things people actually need.
 
-**Now:** taking Intro to Data Science and doing more data analysis in Python and pandas.
+`Java` `Python` `JavaScript` `TypeScript` `SQL` `React` `Node.js` `Spring Boot` `Flask` `MySQL` `Android` `Git`
 
-`Java` `Python` `JavaScript` `SQL` `Spring Boot` `Flask` `Node.js` `MySQL` `Android` `Git`
+📌 My best work is pinned below.
 
 📫 [Email](mailto:26nischay.agarwal@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nischay-agarwal-277514243/)
