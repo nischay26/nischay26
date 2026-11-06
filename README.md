@@ -1,38 +1,14 @@
-# Hi, I'm Nischay 👋
+### Nischay Agarwal
+**CS student at Rutgers ('27) building full-stack and backend systems in Java, Python, and JavaScript.**
 
-CS student at Rutgers University interested in software engineering, backend development, and full-stack applications.
+| Project | What's interesting about it |
+|---|---|
+| [**Auction Platform**](https://github.com/nischay26/auction-platform) | Online auction site with an automated proxy-bidding engine, reserve prices, and auto-closing auctions on a normalized MySQL schema · *Java, JSP, MySQL* |
+| [**Android87**](https://github.com/nischay26/android87) | Photo album app with person/location tagging and AND/OR tag search across albums · *Java, Android* |
+| [**Dice Duel**](https://github.com/nischay26/dice-duel-game) | Multiplayer browser game where a Node.js server keeps every player in sync over WebSockets · *Node.js, Express* |
 
----
+**Now:** taking Intro to Data Science and doing more data analysis in Python and pandas. Looking for **Summer 2027 SWE internships**.
 
-## 🚀 What I Build
-- Full-stack web apps (Java, JSP, MySQL, JDBC)
-- Android apps (Java, Android Studio)
-- Web apps and games (JavaScript, HTML, CSS)
+`Java` `Python` `JavaScript` `SQL` `Spring Boot` `Flask` `Node.js` `MySQL` `Android` `Git`
 
----
-
-## 🛠️ Tech Stack
-**Languages:** Java, Python, JavaScript  
-**Tools:** Git, MySQL, Android Studio, Eclipse, Tomcat  
-**Concepts:** Data Structures, Databases, Backend Development  
-
----
-
-## 📌 Featured Projects
-
-### 🛒 eBay Auction Clone
-Full-stack auction web app with login, bidding, and database integration  
-👉 https://github.com/nischay26/project-part2
-
-### 📱 Android Album App
-Android app to manage albums and photos  
-👉 https://github.com/nischay26/android87
-### 🎲 Dice Duel Game
-Interactive browser-based dice game  
-👉 https://github.com/nischay26/dice-duel-game
-
----
-
-## 📫 Contact
-LinkedIn: https://www.linkedin.com/in/nischay-agarwal-277514243/
-Email: 26nischay.agarwal@gmail.com
+📫 [Email](mailto:26nischay.agarwal@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nischay-agarwal-277514243/)
