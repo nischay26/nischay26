@@ -7,7 +7,7 @@
 | [**Android87**](https://github.com/nischay26/android87) | Photo album app with person/location tagging and AND/OR tag search across albums · *Java, Android* |
 | [**Dice Duel**](https://github.com/nischay26/dice-duel-game) | Multiplayer browser game where a Node.js server keeps every player in sync over WebSockets · *Node.js, Express* |
 
-**Now:** taking Intro to Data Science and doing more data analysis in Python and pandas. Looking for **Summer 2027 SWE internships**.
+**Now:** taking Intro to Data Science and doing more data analysis in Python and pandas.
 
 `Java` `Python` `JavaScript` `SQL` `Spring Boot` `Flask` `Node.js` `MySQL` `Android` `Git`
 
